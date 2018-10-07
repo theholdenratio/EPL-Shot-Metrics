@@ -1,0 +1,11 @@
+# EPL-Data
+Shot data and simple shot metrics for English Premier League Teams from the 2014-2015 season to the 2017-2018 season.
+Data from footballdata.co.uk
+Metrics included: Goal Difference, Goal Ratio, Total Shots For, Total Shots Against, Total Shots Against, Shot Difference,
+Total Shot Ratio, Shots on Target For, Shots on Target Against, Shots on Target Difference, Shots on Target Ratio, Shots For Per Game,
+Shots Against Per Game, Shots on Target For Per Game, Shots on Target Against Per Game, Goals For Per Game, Goals Against Per Game
+
+Stat Definitions:
+Goal ratio - Goals For / Goals for + Goals Against
+Total Shot Ratio (TSR) - Total Shots For / Total Shots For + Total Shots Against
+Shots on Target Ratio (SoTR) - Shots on Target For / Shots on Target For + Shots on Target Against
