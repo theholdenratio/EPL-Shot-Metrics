@@ -1,11 +1,23 @@
 # EPL-Data
-Shot data and simple shot metrics for English Premier League Teams from the 2014-2015 season to the 2017-2018 season.
-Data from footballdata.co.uk
+Shot metrics for English Premier League Teams from the 2006-2007 season to the 2020-2021 season.
+Data from footballdata.co.uk, StatsZone App, WhoScored.com, and premierleague.com via Opta.
 Metrics included: Goal Difference, Goal Ratio, Total Shots For, Total Shots Against, Total Shots Against, Shot Difference,
 Total Shot Ratio, Shots on Target For, Shots on Target Against, Shots on Target Difference, Shots on Target Ratio, Shots For Per Game,
 Shots Against Per Game, Shots on Target For Per Game, Shots on Target Against Per Game, Goals For Per Game, Goals Against Per Game
 
 Stat Definitions:
-Goal ratio - Goals For / Goals for + Goals Against
-Total Shot Ratio (TSR) - Total Shots For / Total Shots For + Total Shots Against
-Shots on Target Ratio (SoTR) - Shots on Target For / Shots on Target For + Shots on Target Against
+Goal Difference = Goals For - Goals Against
+Goal Ratio = Goals For / Goals for + Goals Against
+Total Shot Ratio (TSR) = Total Shots For / Total Shots For + Total Shots Against
+Shot Difference = Total Shots For - Total Shots Against
+Shots on Target Ratio (SoTR) = Shots on Target For / Shots on Target For + Shots on Target Against
+Shots on Target Difference = Shots on Target For - Shots on Target Against
+Shots For Per Game = Shots For / Games Played
+Shots Against Per Game = Shots Against / Games Played
+Shots on Target For Per Game = Shots on Target For / Games Played
+Shots on Target Against Per Game = Shots on Target Against / Games Played
+Goals For Per Game = Goals For / Games Played
+Goals Against Per Game = Goals Against / Games Played 
+
+Opta Event Definitions:
+https://www.statsperform.com/opta-event-definitions/#:~:text=A%20shot%20on%20target%20is%20defined%20as%20any%20goal%20attempt%20that%3A&text=Is%20a%20clear%20attempt%20to,goal%20(last%20line%20block).
